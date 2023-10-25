@@ -53,6 +53,7 @@ div{
 
 }
 
+
 header {
     position: fixed;
     top: 0;
@@ -71,8 +72,10 @@ header {
   }
 }
 
+
+
 nav {
-  font-weight: 140;
+  font-weight: 40;
 }
 
 @media (max-width: 650px) {
@@ -90,7 +93,7 @@ nav {
 
   
 nav > ul {
-  width: 80vw;
+  width: 70vw;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -158,6 +161,8 @@ font-style:italic;
   text-align: justify;
 }
 
+
+
 .desc > h2{
   background-color: 	#FFEFD5;
   text-align: center;
@@ -176,6 +181,9 @@ font-style:italic;
   padding: 10px 10px;
  
 }
+
+
+
 
 #production_process > iframe {
   max-width: 600px;
@@ -354,13 +362,4 @@ font-style:italic;
     position: relative;
   }
 }
-
-
-
-
-
-    
-  
-   
-   
 
